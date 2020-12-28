@@ -1,0 +1,10 @@
+fabric
+coverage
+django~=2.2
+markdown
+gunicorn
+faker
+django-pure-pagination
+elasticsearch>=2,<3
+django-haystack
+django-celery==3.3.1
